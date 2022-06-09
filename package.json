@@ -1,0 +1,16 @@
+{
+  "name": "js-algorithm",
+  "version": "1.0.0",
+  "description": "JavaScript Algorithms and Data Structures Masterclass",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "algorithm",
+    "data structure"
+  ],
+  "author": "roackb2@gmail.com",
+  "license": "ISC"
+}
